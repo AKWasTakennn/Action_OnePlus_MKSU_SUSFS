@@ -1,4 +1,5 @@
 缺水不掉紧紧跟随的伤悲
+就让错纯粹
 # 食用说明
 一加内核开源地址：[OnePlusOSS](https://github.com/OnePlusOSS/kernel_manifest)
 
